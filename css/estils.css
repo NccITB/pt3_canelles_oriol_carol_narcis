@@ -4,7 +4,11 @@
     width: 100%;
     text-align: center;
 }
-
+nav{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
 
 
 .menu{
