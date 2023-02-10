@@ -1,0 +1,13 @@
+
+.header{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.menu{
+    border-style: solid none;
+    border-color: burlywood;
+}
