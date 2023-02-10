@@ -1,6 +1,8 @@
+body{margin: 0;}
 .header{
     position: fixed;
     width: 100%;
+    top: 0;
     background-color: white;
     text-align: center;
 }
@@ -21,9 +23,41 @@ a.enllas:link{
     text-decoration: none;
 }
 a.enllas:visited{
-    color: #7DCCAC;
+    color: black;
 }
 a.enllas:hover {
     color: #7DCCAC;
 }
+.info {
+    padding: 1%;
+}
+.imgResecpta{
+    width: 50%;   
+}
 
+.info{
+    display: flex;
+    text-align: center;
+    border: 5px;
+}
+section{
+    display: flex;
+    text-align: center;
+}
+.date{
+    border-style: solid none;
+}
+.footer{
+    width: 100%;
+    top: 0;
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px 1px;
+}
+.footerenllas{
+    display: inline;
+}
+a.footer{
+    padding: 1%;
+}
