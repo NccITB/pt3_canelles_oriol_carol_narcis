@@ -27,6 +27,7 @@ a.enllas:visited{
 }
 a.enllas:hover {
     color: #7DCCAC;
+    background-color: black;
 }
 .info {
     padding: 1%;
